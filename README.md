@@ -8,6 +8,6 @@ A repo created including past assessments/ICTs from IIT, SriLanka.
 4. Create a new PR to the main branch.
 
 ## How to name folders
-<Year>/<Module_Name>/<Coursework/ICT>/<Item>
+<Year>/<Module_Name>/<Coursework/ICT>/<item_name>
 
 Ex :- 4th_Year/Concurrent_Programming/Coursework/Concurrent_Programming_2023
