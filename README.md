@@ -11,3 +11,8 @@ A repo created including past assessments/ICTs from IIT, SriLanka.
 <Year>/<Module_Name>/<Coursework/ICT>/<item_name>
 
 Ex :- 4th_Year/Concurrent_Programming/Coursework/Concurrent_Programming_2023
+
+## How to name the files
+<Module_name>_<Year_of_the_assessment>
+
+Ex :- Cyber_Security_Coursework_2023
